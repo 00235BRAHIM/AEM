@@ -206,6 +206,14 @@ div.frame
     border-radius: 60%;
     width: 220px;
 }
+.men1
+{
+    background-color:#979797;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
 @media only screen  and (max-width: 768px)
 {
     img.sans{
